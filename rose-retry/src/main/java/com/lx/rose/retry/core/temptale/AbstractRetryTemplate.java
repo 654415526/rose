@@ -15,7 +15,6 @@ import java.util.concurrent.atomic.LongAdder;
  * @version v1.0
  * @date 2021-04-04 15:11
  */
-@Slf4j
 public abstract class AbstractRetryTemplate extends AbstractRetry {
 
     private LongAdder longAdder;

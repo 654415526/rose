@@ -9,11 +9,13 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
+    <groupId>com.lx.rose.retry</groupId>
     <artifactId>rose-retry</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>rose-retry</name>
 
     <properties>
-        <maven.compiler.source>8</maven.compiler.source>
-        <maven.compiler.target>8</maven.compiler.target>
+        <java.version>1.8</java.version>
     </properties>
 
     <dependencies>
